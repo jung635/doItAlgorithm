@@ -1,4 +1,4 @@
-package ch4;
+package day4;
 
 import java.io.BufferedReader;
 import java.io.IOException;

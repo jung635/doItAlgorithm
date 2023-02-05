@@ -1,4 +1,4 @@
-package ch3;
+package day3;
 
 import java.io.*;
 import java.util.*;

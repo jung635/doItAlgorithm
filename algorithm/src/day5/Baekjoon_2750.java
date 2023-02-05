@@ -1,9 +1,8 @@
-package ch5;
+package day5;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 
 public class Baekjoon_2750 {
     //버블정렬로 풀어보기
